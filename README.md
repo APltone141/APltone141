@@ -98,6 +98,14 @@ const uWandz = {
 };
 ```
 
+<!-- GitHub Snake Animation (minimalist version) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me~
 
 <div align="center">
