@@ -87,7 +87,8 @@ I'm a passionate developer who loves to build, explore, and experiment.
 - 🎮 Creating **indie visual novel games**
 - 🔐 Developing **cybersecurity projects** powered by machine learning
 - 👁️ Experimenting with **real-time computer vision AI systems**
-
+- 🌟 Founding & Leading **LEX.DEV** - An educational tech community focused on: approach through real-world projects with industry-standard workflows
+  
 ```js
 const uWandz = {
   alias: "U_Wandz",
